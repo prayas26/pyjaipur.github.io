@@ -147,3 +147,7 @@ a:hover, a:active {
   /*background-color: #eee;*/
   color: #111;
 }
+
+.u {
+    text-decoration: underline;
+}
